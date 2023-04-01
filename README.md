@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, Welcome to my profile!</h1>
+<br>
 
-<!--
-**blablebliblou/blablebliblou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm a self taught programmer who loves low level stuff and for some reason I've been trying to improve my python skills.
 
-Here are some ideas to get you started:
+**Talking about personal stuff:**
+> - I am currently working on a project that cannot be revealed right now;
+> - Ask me about anything, if I don't know the answer we can research together;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hobbies and interests:**
+> - I like to work with API in general;
+> - Free and Open Source Projects;
+> - I like computer games, mainly FPS and Simulation games
+
+**Languages and tools:**<br>
+* `Main:`<br><br>
+            ![VisualStudio](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+            ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+            ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+            ![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
+* `Web:`<br><br>
+            ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+            ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+            ![MarkDown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
+* `Database:`<br><br>
+            ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+            ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+* `Contact:`<br><br>
+ <a href="https://twitter.com/firstzinhaIF" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ <a href="https://pt.anotepad.com/notes/y9tbmc44" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:xotrombose@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<details>
+          <summary>Github stats</summary>
+<div>
+          <a href="https://github.com/firstzinha">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Garoze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firstzinha&layout=compact&langs_count=8&theme=tokyonight"/>
+<div>
+</details>
+
+---
+<img src="https://imgur.com/rilHVxA.png"/>
